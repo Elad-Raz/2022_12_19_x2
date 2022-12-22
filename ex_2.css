@@ -1,0 +1,21 @@
+header {
+  background-color: blue;
+}
+
+.left-small {
+  background-color: aqua;
+  height: 200px;
+  width: 20%;
+  display: inline-block;
+}
+
+.right-big {
+  display: inline-block;
+  background-color: red;
+  height: 200px;
+  width: 79%;
+}
+
+footer {
+  background-color: green;
+}

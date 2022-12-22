@@ -1,0 +1,17 @@
+.all div {
+  display: inline-block;
+  background-color: aqua;
+  width: 80px;
+  height: 80px;
+  border: solid 5px black;
+  margin: 50px;
+}
+.center {
+  display: block;
+  border: 5px solid;
+  background-color: aquamarine;
+  height: 200px;
+  width: 200px;
+  margin-inline: auto;
+  padding: 50px;
+}
